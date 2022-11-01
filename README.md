@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @W3Edd
+- 👀 I’m interested in backend development, dev ops, automation and DX
+- 🌱 I’m currently learning Go and Rust
+- 💞️ I’m looking to collaborate on libraries, frameworks or any tool that may help devs do their job better, faster and easier
+- 📫 How to reach me: DM @EdsonManuelVera or edsonmanuelcarballovera@gmail.com
